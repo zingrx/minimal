@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Student at upGrad
 
 Hello everyone, this is me Mahmoud Nabeel (zingrx), a student at upGrad attending masters program in AI/ML.
